@@ -10,6 +10,8 @@
 
 **Email Address:** s3730230@student.rmit.edu.au
 
+<img src="https://i.imgur.com/Xjb41TG.jpg" width="200" height="300">
+
 **Background:** I was born in Perth, Western Australia but lived in a small mining town in the Pilbara for the first few years of my life before my family moved to Perth. I began working in the Oil & Gas industry within the Logistics department in 2015 as an Administration Assistant and in 2017 started studying a Bachelor of Business majoring in Logistics & Supply Chain Management sponsored by my employer. I am due to complete my studies at the end of this year. I have two dogs which are both Australian Kelpies that keep me busy and active in my spare time. 
 
 ### Interest in IT
@@ -18,7 +20,7 @@ My interest in IT is in learning how to apply it to my work, I currently work as
 
 ### Ideal Job
 
-[Job Advertisement](https://careers.woodside.com.au/go/Graduate-Development-Program/1399301/) and <img src="https://i.imgur.com/Xjb41TG.jpg" width="200" height="300">
+[Job Advertisement](https://careers.woodside.com.au/go/Graduate-Development-Program/1399301/) 
 
 ### Personal Profile
 
