@@ -16,7 +16,7 @@ My interest in IT is in learning how to apply it to my work, I currently work as
 
 #### Ideal Job
 
-[Job Advertisement](https://careers.woodside.com.au/go/Graduate-Development-Program/1399301/) and <img src="https://i.imgur.com/Xjb41TG.jpg" width="100" height="250">
+[Job Advertisement](https://careers.woodside.com.au/go/Graduate-Development-Program/1399301/) and <img src="https://i.imgur.com/Xjb41TG.jpg" width="200" height="300">
 
 #### Personal Profile
 
