@@ -1,5 +1,7 @@
 ## Assignment 1 
 
+<img src="https://i.imgur.com/Xjb41TG.jpg" width="200" height="300">
+
 ### Personal Information
 
 **Name:** Kira Devine
