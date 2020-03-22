@@ -20,7 +20,7 @@ My interest in IT is in learning how to apply it to my work, I currently work as
 
 ##### Personal Profile
 
-###### Project Idea
+##### Project Idea
 
 **Overview:** The project is a small GPS device that can be sewn into a pets collar. The GPS device can send coordinates to a mobile app. The device would be used to locate your pet in the event that they run away. The device could have the alternative use of displaying the distance travelled by the pet which could be converted into an estimated step count.
 
