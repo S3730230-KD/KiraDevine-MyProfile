@@ -17,6 +17,7 @@ My interest in IT is in learning how to apply it to my work, I currently work as
 #### Ideal Job
 
 [Job Advertisement](https://careers.woodside.com.au/go/Graduate-Development-Program/1399301/) and ![Image]https://woodsideenergy-my.sharepoint.com/:i:/r/personal/kira_devine_woodside_com_au/Documents/Documents/20200130_170604(0)_2.jpg?csf=1&e=9twn4F)
+
 #### Personal Profile
 
 ##### Project Idea
