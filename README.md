@@ -18,7 +18,9 @@ My interest in IT is in learning how to apply it to my work, I currently work as
 
 ## Ideal Job
 
-[Job Advertisement Link](https://careers.woodside.com.au/go/Graduate-Development-Program/1399301/) 
+[Job Advertisement Link](https://gradaustralia.com.au/graduate-employers/department-of-defence/jobs-internships/defence-graduate-program-logistics-stream) 
+
+<img src="https://i.imgur.com/ZvytsUZ.png" width="300" height="300">
 
 ## Personal Profile
 
